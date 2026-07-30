@@ -7,7 +7,7 @@ Python scripts demonstrating core programming fundamentals: input handling, math
 
 ## Featured Projects
 
-### Table of Contentsh
+### Table of Contents
 - [1. Tip Calculator](#1--tip-calculator)
 - [2. Rollercoaster Tickets](#2--rollercoaster-tickets)
 - [3. Treasure Island](#3-treasure-island)
@@ -114,7 +114,7 @@ Interactive CLI tool that generates secure, customizable passwords via random ch
 [View Code](Password_generator.py)
 
 ### 7. 🎮 Hangman
-Single-player word guessing game with 6 lives, random words, and ASCII stages.
+Single-player word-guessing game with 6 lives, random words, and ASCII stages.
 
 **Skills Demonstrated:**
 - Random word choice (`random.choice()`)
