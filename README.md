@@ -7,7 +7,7 @@ Python scripts demonstrating core programming fundamentals: input handling, math
 
 ## Featured Projects
 
-### Table of Contents
+### Table of Contentsh
 - [1. Tip Calculator](#1--tip-calculator)
 - [2. Rollercoaster Tickets](#2--rollercoaster-tickets)
 - [3. Treasure Island](#3-treasure-island)
@@ -136,7 +136,7 @@ This continues until we either guess the word or lose the game.
 [View Code](Hangman/Hangman.py)
 
 ### 8. 🔤 Caesar Cipher
-Infinite replay text encoder/decoder using single function with negative shift trick.
+Infinite replay text encoder/decoder using a single function with negative shift trick.
 
 **Skills Demonstrated:**
 - Single caesar() for encode/decode (`shift_amount *= -1`)
