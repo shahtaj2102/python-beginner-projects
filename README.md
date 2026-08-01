@@ -160,7 +160,7 @@ Secret bidding game—highest hidden bid wins!
 - Dictionaries (`{name: bid}`)
 - Custom functions (`find_highest_bidder()`)
 - f-string winner announcement
-- User validation (yes/no continue)
+- User validation (yes/no prompt)
 
 **Demo:**
 
