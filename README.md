@@ -9,7 +9,7 @@ Python scripts demonstrating core programming fundamentals: input handling, math
 
 ### Table of Contents
 - [1. Tip Calculator](#1--tip-calculator)
-- [2. Rollercoaster Tickets](#2--rollercoaster-tickets)
+- [2. Rollercoaster Tickets](#2--rollercoaster-ticketsh)
 - [3. Treasure Island](#3-treasure-island)
 - [4. Heads or Tails](#4--heads-or-tails)
 - [5. Rock Paper Scissors](#5-rock-paper-scissors)
@@ -175,7 +175,7 @@ Secret bidding game—highest hidden bid wins!
 ## Quick Start
 1. Clone: `git clone https://github.com/shahtaj2102/python-scripting-practice.git`
 2. Run: `python rollercoaster_ticket.py`, `python tip_calculator.py`, `python Treasure_island.py`, `python Heads_or_tails.py`, `python rock_paper_scissors.py`, `python Password_generator.py`,
-        `python Hangman/Hangman.py`, `python caesar_cipher.py`, `python Blind_auction.py`
+        `python Hangman/Hangman.py`, `python Caesar_cipher/caesar_cipher.py`, `python Blind_auction.py`
 
 ## About
 **Shahtaj Singh Gill** – AWS Cloud Engineer, Toronto.
